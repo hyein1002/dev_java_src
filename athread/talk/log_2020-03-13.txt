@@ -1,0 +1,4 @@
+Server Ready....
+client info :Socket[addr=/192.168.0.218,port=61136,localport=3000]
+안녕님이 입장하였습니다.
+201#안녕#안녀ㅑㅇ

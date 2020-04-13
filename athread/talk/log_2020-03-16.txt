@@ -1,0 +1,8 @@
+Server Ready....
+client info :Socket[addr=/192.168.0.218,port=50548,localport=3000]
+1님이 입장하였습니다.
+202#1#2
+201#2#ddd
+201#2#ssss
+202#2#3
+201#3#fff
